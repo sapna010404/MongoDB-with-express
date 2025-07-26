@@ -120,15 +120,10 @@ node_modules/
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of the chat UI here if needed._
-
----
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Sapna 
 Inspired by basic MERN stack principles and beginner-friendly CRUD apps.
 
 ---
